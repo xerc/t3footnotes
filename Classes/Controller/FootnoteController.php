@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace CAG\T3footnotes\Controller;
 
 /***
